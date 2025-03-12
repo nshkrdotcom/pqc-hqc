@@ -1,4 +1,4 @@
-# A Comprehensive Guide to Secure HQC Implementation: Side-Channel Resistance and Beyond
+# Claude 3.7 Sonnet - A Comprehensive Guide to Secure HQC Implementation: Side-Channel Resistance and Beyond
 
 **Date:** 2025-03-11
 

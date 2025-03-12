@@ -1,3 +1,5 @@
+# Grok's Review
+
 ## Key Points
 
 *   Research suggests HQC implementations can be enhanced with specific side-channel attack details and recent NIST updates.
